@@ -1,0 +1,1 @@
+Readme.md file created at direcotry level for data structure, list and tuples task
