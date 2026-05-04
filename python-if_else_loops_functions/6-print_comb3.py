@@ -6,4 +6,4 @@ for i in rnage(10):
         elif i < j and i != 8:
             print("{}".format(i) + "{}".format(j) + ", ", end="")
         elif i < j and i == 8:
-            print("{}.format(i) + "{}.format(j))
+            print("{}.format(i) + "{}".format(j))
